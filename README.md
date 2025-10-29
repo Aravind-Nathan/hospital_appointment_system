@@ -1,3 +1,8 @@
+
+Hospital Management System (HMS) is a web-based application designed to manage hospital management/appointment efficiently. It automates tasks such as patient registration, doctor management, appointments, and reports. Reduces manual paperwork and improves workflow.
+
+
+
 **“How to Use in Visual Studio Code”** 👇
 
 ---
