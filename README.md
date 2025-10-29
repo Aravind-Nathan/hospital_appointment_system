@@ -50,7 +50,7 @@ Hospital Management System (HMS) is a web-based application designed to manage h
 6. **Run The Application**
 
    * Click index.html
-   * Select the file,right click it and select Open in Live Server Option
+   * Select the file,right click it and select Open with Live Server Option
      
 
 7. **Stop the Server to Stop the Program**
